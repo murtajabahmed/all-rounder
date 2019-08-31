@@ -1,4 +1,6 @@
-#This is my first code.
+# This is my first code.
+## this is head two.
+
 
 Hi there i am a web designer. It just a psd to html. And also a landing page.
 
