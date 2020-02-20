@@ -110,6 +110,10 @@ pre code {
 	color: white;
 	background: #7C9C37;
 }
+.bn a:hover {
+    color: #216f0c;
+	text-decoration: underline;
+	background: #fff;
 .ontrol {
 	display: block;
 	width: 100%;
